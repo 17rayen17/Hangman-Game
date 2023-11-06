@@ -55,6 +55,7 @@ if there is 20 put 20 */
   color: white;
   font-weight: bold;
   font-size: 30px;
+  white-space: nowrap;
 }
 
 /* MAIN GAME */
